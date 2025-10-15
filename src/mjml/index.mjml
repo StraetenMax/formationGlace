@@ -20,5 +20,85 @@
         <mj-text padding="0" align="center" mj-class="T14" color="#888888">Si vous ne parvenez pas à lire cet email, <a style="color:#888888" href="#">cliquez ici</a></mj-text>
       </mj-column>
     </mj-section>
+    <mj-section>
+      <mj-column> 
+        <mj-text>Vous êtes restaurateur, traiteur, pizzaiolo, boulanger, chocolatier, artisant ?</mj-text>
+        <mj-text>Et si vos clients revenaient pour vos propres glaces artisanales maison ?</mj-text>
+        <mj-text><img src="images/iconIndex.png" alt=""/>On vous forme. Vous créez. Ils reviennent.</mj-text>
+        <mj-image src="images/vendeuseGlace.png" alt=""/>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Aucune expérience ? Justement, cette formation est faite pour vous.</mj-text>
+        <mj-text>La formation est assurée par un Maître Artisan Glacier, expert de la glace artisanale.</mj-text>
+        <mj-text>Pas besoin d'être glacier. Pas besoin d'expérience.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="images/preparationGlace.png" alt=""/>
+      </mj-column>
+      <mj-column>
+        <mj-image src="images/verificationGlace.png" alt=""/>
+      </mj-column>
+      <mj-column>
+        <mj-image src="images/machineGlace.png" alt=""/>
+      </mj-column>
+      <mj-column>
+        <mj-image src="images/diplomeGlacier.png" alt=""/>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Vous êtes guidé étape par étape pour apprendre à fabriquer des glaces, crèmes glacées et sorbets plein fruit 100 % naturels</mj-text>
+        <mj-text>Sans colorants</mj-text>
+        <mj-text>Sans arômes artificiels</mj-text>
+        <mj-text>Sans poudre industrielle</mj-text>
+        <mj-text>Juste du vrai, du bon, du fait maison.</mj-text>
+        <mj-image src="images/glaces.png" alt=""/>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Une formation 100% artisanale, accessible à tous, animée par un professionnel passionné. </mj-text>
+        <mj-text>Pourquoi laisser passer cette source de revenus évidente, alors que vous pouvez créer vos propres glaces artisanales, naturelles, sans colorants ni arômes artificiels ?</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="images/preparationGlace.png" alt=""/>
+      </mj-column>
+      <mj-column>
+        <mj-image src="images/verificationGlace.png" alt=""/>
+      </mj-column>
+      <mj-column>
+        <mj-image src="images/machineGlace.png" alt=""/>
+      </mj-column>
+      <mj-column>
+        <mj-image src="images/diplomeGlacier.png" alt=""/>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Vous n'y connaissez rien ? Aucun problème.</mj-text>
+        <mj-text>Notre formation est faite pour les débutants comme pour les pros, et elle vous apprend à</mj-text>
+        <mj-text>Fabriquer des glaces, crèmes glacées et sorbets 100% maison</mj-text>
+        <mj-text>Résoudre tous les problèmes : texture, fonte, tenue en vitrine</mj-text>
+        <mj-text>Valoriser VOS matières premières : chocolat, fruits, lait, etc.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Et le meilleur dans tout ça ?</mj-text>
+        <mj-text>Si vous êtes travailleur indépendant, artisan inscrit à la Chambre des Métiers ou Chef d'entreprise ou son conjoint ?</mj-text>
+        <mj-text>Bonne nouvelle : le coût de votre formation peut-être pris en charge, en totalité ou en partie, par l'organisme de financement dont vous dépendez.</mj-text>
+        <mj-text>C'est simple et rapide : le Maître Artisan vous accompagne personnellement. Il se charge de fournir tous les documents nécessaires à la prise en charge par votre OPCO et de constituer le dossier complet pour garantir la bonne réalisation de votre projet de formation. Vous n'aurez plus qu'à signer et tamponner les documents.</mj-text>
+        <mj-text>Nous sommes référencés auprès de la majorité des OPCO, tels que : afdas, agefice, fafih, opcalim, fafcea, akto, msa, vivea, fafsea, ocapiat, opco 2i, opco ep, etc.</mj-text>
+        <mj-image src="images/bandeauOpco.png" alt=""/>
+        <mj-text>Notre organisme de formation www.formationglacier.com est certifié QUALIOPI à ce titre, nous vous accompagnons dans toutes vos démarches administratives, et nous vous aidons à constituer votre dossier de prise en charge pour que votre projet de formation se réalise dans les meilleures conditions.</mj-text>
+        <mj-image src="images/bandeauQualiopi.png" alt=""/>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
