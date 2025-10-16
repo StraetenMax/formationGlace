@@ -98,6 +98,19 @@
         <mj-image src="images/bandeauOpco.png" alt=""/>
         <mj-text>Notre organisme de formation www.formationglacier.com est certifié QUALIOPI à ce titre, nous vous accompagnons dans toutes vos démarches administratives, et nous vous aidons à constituer votre dossier de prise en charge pour que votre projet de formation se réalise dans les meilleures conditions.</mj-text>
         <mj-image src="images/bandeauQualiopi.png" alt=""/>
+        <mj-text>Arrêtez de vendre les glaces des autres. Créez les vôtres.</mj-text>
+        <mj-text>Vos clients le sentiront... et votre chiffre d'affaires aussi.</mj-text>
+        <mj-text>Vous recevrez des fiches de recettes simples et claires pour vous guider pas à pas.</mj-text>
+        <mj-text>Vous apprendrez comment personnaliser vos glaces, trouver le bon équilibre des ingrédients et créer vos propres recettes, même sans expérience.</mj-text>
+        <mj-text>L'objectif : que vous deveniez un créateur de saveurs, capable de surprendre et de régaler vos clients avec des glaces maison uniques et naturelles.</mj-text>
+        <mj-text>visitez notre site web :</mj-text>
+        <mj-text> <img src="images/iconGlobe.png" alt=""/>www.formationglacier.com</mj-text>
+        <mj-text>Nos formations sont suivies partout : France, Europe, monde entier.</mj-text>
+        <mj-text>100% de satisfaction. 100% de réussite.</mj-text>
+        <mj-text>Des pros comme vous nous ont fait confiance.</mj-text>
+        <mj-text><img src="images/iconFusee.png" alt=""/>Et vous, qu'attendez-vous ?</mj-text>
+        <mj-text><img src="images/iconCible.png" alt=""/>Devenez un vrai Artisan Glacier. Et faites la différence.</mj-text>
+        <mj-text><img src="images/iconPhone.png" alt=""/>Appelez-nous : +33 6 11 51 89 59</mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
