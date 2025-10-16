@@ -22,9 +22,10 @@
     </mj-section>
     <mj-section padding="20px" background-color="#ffffff">
       <mj-column width="100%">
-        <mj-text padding="0" align="center" font-size="16px" font-style="normal" line-height="20px" font-weight="400">Vous êtes restaurateur, traiteur, pizzaiolo, boulanger, chocolatier, artisant ?</mj-text>
-        <mj-text padding="0" align="center" font-size="16px" font-style="normal" line-height="20px" font-weight="400">Et si vos clients revenaient pour vos propres glaces artisanales maison ?</mj-text>
-        <mj-text padding="0" align="center" font-size="16px" font-style="normal" line-height="20px" font-weight="400"><img padding="0" width="50px" src="images/iconIndex.png" alt=""/><span style="vertical-align:top">On vous forme. Vous créez. Ils reviennent.</span></mj-text>
+        <mj-text padding="0" align="center" font-size="24px" font-style="normal" line-height="28px" font-weight="400">Vous êtes restaurateur, traiteur, pizzaiolo, boulanger, chocolatier, artisan ?</mj-text>
+        <mj-spacer height="15px"></mj-spacer>
+        <mj-text padding="0" align="center" font-size="18px" font-style="normal" line-height="22px" font-weight="700">Et si vos clients revenaient pour vos propres glaces artisanales maison ?</mj-text>
+        <mj-text padding="0" align="center" font-size="16px" font-style="normal" line-height="20px" font-weight="400"><img padding="0" width="30px" src="images/iconIndex.png" alt=""/><span style="vertical-align:top">On vous forme. Vous créez. Ils reviennent.</span></mj-text>
       </mj-column>
       <mj-column width="100%">
         <mj-image padding="0" width="600px" src="images/vendeuseGlace.png" alt=""/>
@@ -32,9 +33,7 @@
     </mj-section>
     <mj-section padding="20px" background-color="#ffffff">
       <mj-column>
-        <mj-text padding="0" align="center" font-size="16px" font-style="normal" line-height="20px" font-weight="400">Aucune expérience ? Justement, cette formation est faite pour vous.</mj-text>
-        <mj-text padding="0" align="center" font-size="16px" font-style="normal" line-height="20px" font-weight="400">La formation est assurée par un Maître Artisan Glacier, expert de la glace artisanale.</mj-text>
-        <mj-text padding="0" align="center" font-size="16px" font-style="normal" line-height="20px" font-weight="400">Pas besoin d'être glacier. Pas besoin d'expérience.</mj-text>
+        <mj-text padding="0" align="center" font-size="16px" font-style="normal" line-height="20px" font-weight="400">Aucune expérience ? Justement, cette formation est faite pour vous. La formation est assurée par un Maître Artisan Glacier, expert de la glace artisanale. Pas besoin d'être glacier. Pas besoin d'expérience.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="10px 10px" background-color="#ffffff">
@@ -51,13 +50,13 @@
         <mj-image padding="0" height="125px" src="images/diplomeGlacier.png" alt=""/>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff">
+    <mj-section padding="20px" background-color="#ffffff">
       <mj-column>
-        <mj-text>Vous êtes guidé étape par étape pour apprendre à fabriquer des glaces, crèmes glacées et sorbets plein fruit 100 % naturels</mj-text>
-        <mj-text>Sans colorants</mj-text>
-        <mj-text>Sans arômes artificiels</mj-text>
-        <mj-text>Sans poudre industrielle</mj-text>
-        <mj-text>Juste du vrai, du bon, du fait maison.</mj-text>
+        <mj-text padding="0" align="center" font-size="16px" font-style="normal" line-height="20px" font-weight="400">Vous êtes guidé étape par étape pour apprendre à fabriquer des glaces, crèmes glacées et sorbets plein fruit 100 % naturels</mj-text>
+        <mj-text padding="0" align="center" font-size="16px" font-style="normal" line-height="20px" font-weight="400">Sans colorants</mj-text>
+        <mj-text padding="0" align="center" font-size="16px" font-style="normal" line-height="20px" font-weight="400">Sans arômes artificiels</mj-text>
+        <mj-text padding="0" align="center" font-size="16px" font-style="normal" line-height="20px" font-weight="400">Sans poudre industrielle</mj-text>
+        <mj-text padding="0" align="center" font-size="16px" font-style="normal" line-height="20px" font-weight="400">Juste du vrai, du bon, du fait maison.</mj-text>
         <mj-image src="images/glaces.png" alt=""/>
       </mj-column>
     </mj-section>
