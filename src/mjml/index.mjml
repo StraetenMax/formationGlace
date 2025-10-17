@@ -59,7 +59,7 @@
         <mj-text padding="0" align="center" font-size="16px" font-style="normal" line-height="20px" font-weight="400">Sans arômes artificiels</mj-text>
         <mj-text padding="0" align="center" font-size="16px" font-style="normal" line-height="20px" font-weight="400">Sans poudre industrielle</mj-text>
         <mj-text padding="0" align="center" font-size="16px" font-style="normal" line-height="20px" font-weight="400">Juste du vrai, du bon, du fait maison.</mj-text>
-        <mj-image src="images/glaces.png" alt=""/>
+        <mj-image padding="0" width="600px" src="images/glaces.png" alt=""/>
       </mj-column>
     </mj-section>
     <mj-section padding="20px" background-color="#ffffff">
@@ -91,29 +91,29 @@
         <mj-text padding="0" font-size="16px" font-style="normal" line-height="20px" font-weight="400">Valoriser VOS matières premières : chocolat, fruits, lait, etc.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff">
+    <mj-section padding="20px 30px" background-color="#ffffff">
       <mj-column>
-        <mj-text>Et le meilleur dans tout ça ?</mj-text>
-        <mj-text>Si vous êtes travailleur indépendant, artisan inscrit à la Chambre des Métiers ou Chef d'entreprise ou son conjoint ?</mj-text>
-        <mj-text>Bonne nouvelle : le coût de votre formation peut-être pris en charge, en totalité ou en partie, par l'organisme de financement dont vous dépendez.</mj-text>
-        <mj-text>C'est simple et rapide : le Maître Artisan vous accompagne personnellement. Il se charge de fournir tous les documents nécessaires à la prise en charge par votre OPCO et de constituer le dossier complet pour garantir la bonne réalisation de votre projet de formation. Vous n'aurez plus qu'à signer et tamponner les documents.</mj-text>
-        <mj-text>Nous sommes référencés auprès de la majorité des OPCO, tels que : afdas, agefice, fafih, opcalim, fafcea, akto, msa, vivea, fafsea, ocapiat, opco 2i, opco ep, etc.</mj-text>
-        <mj-image src="images/bandeauOpco.png" alt=""/>
-        <mj-text>Notre organisme de formation www.formationglacier.com est certifié QUALIOPI à ce titre, nous vous accompagnons dans toutes vos démarches administratives, et nous vous aidons à constituer votre dossier de prise en charge pour que votre projet de formation se réalise dans les meilleures conditions.</mj-text>
-        <mj-image src="images/bandeauQualiopi.png" alt=""/>
-        <mj-text>Arrêtez de vendre les glaces des autres. Créez les vôtres.</mj-text>
-        <mj-text>Vos clients le sentiront... et votre chiffre d'affaires aussi.</mj-text>
-        <mj-text>Vous recevrez des fiches de recettes simples et claires pour vous guider pas à pas.</mj-text>
+        <mj-text padding="0" align="center" font-size="24px" font-style="normal" line-height="30px" font-weight="400">Et le meilleur dans tout ça ?</mj-text>
+        <mj-text padding="5px 0" font-size="16px" font-style="normal" line-height="22px" font-weight="400">Si vous êtes travailleur indépendant, artisan inscrit à la Chambre des Métiers ou Chef d'entreprise ou son conjoint ?</mj-text>
+        <mj-text padding="5px 0" font-size="16px" font-style="normal" line-height="22px" font-weight="400">Bonne nouvelle : le coût de votre formation peut-être pris en charge, en totalité ou en partie, par l'organisme de financement dont vous dépendez.</mj-text>
+        <mj-text padding="5px 0" font-size="16px" font-style="normal" line-height="22px" font-weight="400">C'est simple et rapide : le Maître Artisan vous accompagne personnellement. Il se charge de fournir tous les documents nécessaires à la prise en charge par votre OPCO et de constituer le dossier complet pour garantir la bonne réalisation de votre projet de formation. Vous n'aurez plus qu'à signer et tamponner les documents.</mj-text>
+        <mj-text padding="5px 0" font-size="16px" font-style="normal" line-height="22px" font-weight="400">Nous sommes référencés auprès de la majorité des OPCO, tels que : afdas, agefice, fafih, opcalim, fafcea, akto, msa, vivea, fafsea, ocapiat, opco 2i, opco ep, etc.</mj-text>
+        <mj-image padding="0" width="600px" src="images/bandeauOpco.png" alt=""/>
+        <mj-text padding="0" font-size="16px" font-style="normal" line-height="22px" font-weight="400">Notre organisme de formation www.formationglacier.com est certifié QUALIOPI à ce titre, nous vous accompagnons dans toutes vos démarches administratives, et nous vous aidons à constituer votre dossier de prise en charge pour que votre projet de formation se réalise dans les meilleures conditions.</mj-text>
+        <mj-image padding="0" width="600px" src="images/bandeauQualiopi.png" alt=""/>
+        <mj-text padding="5px 0" font-size="16px" font-style="normal" line-height="22px" font-weight="400">Arrêtez de vendre les glaces des autres. Créez les vôtres.</mj-text>
+        <mj-text padding="5px 0" font-size="16px" font-style="normal" line-height="22px" font-weight="400">Vos clients le sentiront... et votre chiffre d'affaires aussi.</mj-text>
+        <mj-text padding="5px 0" font-size="16px" font-style="normal" line-height="22px" font-weight="400">Vous recevrez des fiches de recettes simples et claires pour vous guider pas à pas.</mj-text>
         <mj-text>Vous apprendrez comment personnaliser vos glaces, trouver le bon équilibre des ingrédients et créer vos propres recettes, même sans expérience.</mj-text>
         <mj-text>L'objectif : que vous deveniez un créateur de saveurs, capable de surprendre et de régaler vos clients avec des glaces maison uniques et naturelles.</mj-text>
         <mj-text>visitez notre site web :</mj-text>
-        <mj-text> <img src="images/iconGlobe.png" alt=""/>www.formationglacier.com</mj-text>
+        <mj-text> <img padding="0" width="30px" src="images/iconGlobe.png" alt=""/>www.formationglacier.com</mj-text>
         <mj-text>Nos formations sont suivies partout : France, Europe, monde entier.</mj-text>
         <mj-text>100% de satisfaction. 100% de réussite.</mj-text>
         <mj-text>Des pros comme vous nous ont fait confiance.</mj-text>
-        <mj-text><img src="images/iconFusee.png" alt=""/>Et vous, qu'attendez-vous ?</mj-text>
-        <mj-text><img src="images/iconCible.png" alt=""/>Devenez un vrai Artisan Glacier. Et faites la différence.</mj-text>
-        <mj-text><img src="images/iconPhone.png" alt=""/>Appelez-nous : +33 6 11 51 89 59</mj-text>
+        <mj-text><img padding="0" width="30px" src="images/iconFusee.png" alt=""/>Et vous, qu'attendez-vous ?</mj-text>
+        <mj-text><img padding="0" width="30px" src="images/iconCible.png" alt=""/>Devenez un vrai Artisan Glacier. Et faites la différence.</mj-text>
+        <mj-text><img padding="0" width="30px" src="images/iconPhone.png" alt=""/>Appelez-nous : +33 6 11 51 89 59</mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
