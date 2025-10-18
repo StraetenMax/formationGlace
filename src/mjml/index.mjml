@@ -21,7 +21,7 @@
       </mj-column>
     </mj-section>
     <mj-section padding="20px" background-color="#ffffff">
-      <mj-column width="480px">
+      <mj-column width="100%">
         <mj-text padding="0" align="center" font-size="24px" font-style="normal" line-height="30px" font-weight="400">Vous êtes restaurateur, traiteur, pizzaiolo, boulanger, chocolatier ou artisan ?</mj-text>
         <mj-spacer height="15px"></mj-spacer>
         <mj-text padding="0" align="center" font-size="18px" font-style="normal" line-height="22px" font-weight="700">Et si vos clients revenaient pour vos propres glaces artisanales maison ?</mj-text>
@@ -86,9 +86,26 @@
       <mj-column>
         <mj-text padding="0" align="center" font-size="24px" font-style="normal" line-height="28px" font-weight="400">Vous n'y connaissez rien ? Aucun problème.</mj-text>
         <mj-text padding="0" font-size="16px" font-style="normal" line-height="20px" font-weight="400">Notre formation est faite pour les débutants comme pour les professionnels, et elle vous apprend à</mj-text>
-        <mj-text padding="0" font-size="16px" font-style="normal" line-height="20px" font-weight="400">Fabriquer des glaces, crèmes glacées et sorbets 100% maison</mj-text>
-        <mj-text padding="0" font-size="16px" font-style="normal" line-height="20px" font-weight="400">Résoudre tous les problèmes : texture, fonte, tenue en vitrine</mj-text>
-        <mj-text padding="0" font-size="16px" font-style="normal" line-height="20px" font-weight="400">Valoriser VOS matières premières : chocolat, fruits, lait, etc.</mj-text>
+        <mj-table padding="0" font-size="16px" line-height="20px" font-weight="400"> 
+          <tr> 
+            <td width="6%"><img style="margin:0;padding:0;" width="20px" src="images/iceCream.png" alt=""/> </td>
+            <td width="94%">
+              <p style="margin:0;padding:0;">Fabriquer des glaces, crèmes glacées et sorbets 100% maison</p>
+            </td>
+          </tr>
+          <tr> 
+            <td width="6%"><img style="margin:0;padding:0;" width="20px" src="images/iceCream.png" alt=""/> </td>
+            <td width="94%">
+              <p style="margin:0;padding:0;">Résoudre tous les problèmes : texture, fonte, tenue en vitrine</p>
+            </td>
+          </tr>
+          <tr>
+            <td width="6%"><img style="margin:0;padding:0;" width="20px" src="images/iceCream.png" alt=""/> </td>
+            <td width="94%">
+              <p style="margin:0;padding:0;">Valoriser VOS matières premières : chocolat, fruits, lait, etc.</p>
+            </td>
+          </tr>
+        </mj-table>
       </mj-column>
     </mj-section>
     <mj-section padding="20px 30px" background-color="#ffffff">
