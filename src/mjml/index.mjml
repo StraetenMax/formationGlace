@@ -114,12 +114,23 @@
         <mj-text padding="8px 0" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-style="normal" line-height="22px" font-weight="400" letter-spacing="0.5px" color="#260801">L'objectif&nbsp;: que vous deveniez un créateur de saveurs, capable de surprendre et de régaler vos clients avec des glaces maison uniques et naturelles.</mj-text>
         <mj-text padding="8px 0" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-style="normal" line-height="22px" font-weight="400" letter-spacing="0.5px" color="#260801">visitez notre site web&nbsp;:</mj-text>
         <mj-text padding="8px 0" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-style="normal" line-height="22px" font-weight="400" letter-spacing="0.5px" color="#260801"> <img style="padding:0;vertical-align:middle;" width="30px" src="images/iconGlobe.png" alt=""/><span style="vertical-align:middle;">&nbsp;&nbsp;www.formationglacier.com</span></mj-text>
-        <mj-text padding="8px 0" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-style="normal" line-height="22px" font-weight="400" letter-spacing="0.5px" color="#260801">Nos formations sont suivies partout : France, Europe, monde entier.</mj-text>
+        <mj-text padding="8px 0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-style="normal" line-height="22px" font-weight="400" letter-spacing="0.5px" color="#260801">Nos formations sont suivies partout : France, Europe, monde entier.</mj-text>
         <mj-text padding="0" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-style="normal" line-height="22px" font-weight="400" letter-spacing="0.5px" color="#260801">100&nbsp;% de satisfaction. 100&nbsp;% de réussite.</mj-text>
         <mj-text padding="5px 0" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-style="normal" line-height="22px" font-weight="400" letter-spacing="0.5px" color="#260801">Des pros comme vous nous ont fait confiance.</mj-text>
-        <mj-text padding="0" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-style="normal" line-height="22px" font-weight="400" letter-spacing="0.5px" color="#260801"><img style="padding:0;vertical-align:middle" width="30px" src="images/iconFusee.png" alt=""/><span style="vertical-align:middle;">&nbsp;&nbsp;Et vous, qu'attendez-vous ?</span></mj-text>
-        <mj-text padding="0" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-style="normal" line-height="22px" font-weight="400" letter-spacing="0.5px" color="#260801"><img style="padding:0;vertical-align:middle" width="30px" src="images/iconCible.png" alt=""/><span style="vertical-align:middle;">&nbsp;&nbsp;Devenez un vrai Artisan Glacier. Et faites la différence.</span></mj-text>
-        <mj-text padding="0" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-style="normal" line-height="22px" font-weight="400" letter-spacing="0.5px" color="#260801"><img style="padding:0;vertical-align:middle" width="30px" src="images/iconPhone.png" alt=""/><span style="vertical-align:middle;">&nbsp;&nbsp;Appelez-nous&nbsp;: +33 6 11 51 89 5</span></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column> 
+        <mj-image padding="0" width="30px" src="images/iconFusee.png" alt=""/>
+        <mj-text padding="0" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-style="normal" line-height="22px" font-weight="400" letter-spacing="0.5px" color="#260801">Et vous, qu'attendez-vous ?</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image padding="0" width="30px" src="images/iconCible.png" alt=""/>
+        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-style="normal" line-height="22px" font-weight="400" letter-spacing="0.5px" color="#260801">Devenez un vrai Artisan Glacier. Et faites la différence.</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image padding="0" width="30px" src="images/iconPhone.png" alt=""/>
+        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-style="normal" line-height="22px" font-weight="400" letter-spacing="0.5px" color="#260801">Appelez-nous&nbsp;: +33 6 11 51 89 5</mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
