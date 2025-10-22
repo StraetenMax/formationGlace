@@ -120,16 +120,18 @@
           <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="20px" font-style="normal" line-height="26px" font-weight="700" letter-spacing="0.5px" color="#f9f8f8">Nos formations sont suivies partout</mj-text>
           <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="20px" font-style="normal" line-height="26px" font-weight="700" letter-spacing="0.5px" color="#f9f8f8">en France, en Europe et dans le monde entier.</mj-text>
           <mj-spacer height="12px"></mj-spacer>
-          <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-style="normal" line-height="22px" font-weight="400" letter-spacing="0.5px" color="#f9f8f8">100&nbsp;% de satisfaction. 100&nbsp;% de réussite.</mj-text>
+          <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-style="normal" line-height="22px" font-weight="400" letter-spacing="0.5px" color="#f9f8f8">100&nbsp;% de satisfaction, 100&nbsp;% de réussite.</mj-text>
           <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-style="normal" line-height="22px" font-weight="400" letter-spacing="0.5px" color="#f9f8f8">Des professionnels comme vous nous ont fait confiance.</mj-text>
         </mj-column>
       </mj-section>
       <mj-section padding="20px" padding-top="0">
-        <mj-column padding="10px">
+        <mj-column>
           <mj-image padding="0" width="30px" src="images/iconFusee.png" alt=""/>
           <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-style="normal" line-height="22px" font-weight="400" letter-spacing="0.5px" color="#f9f8f8">Et vous, qu'attendez-vous ?</mj-text>
         </mj-column>
-        <mj-column padding="10px">
+      </mj-section>
+      <mj-section padding="0px 30px">
+        <mj-column>
           <mj-image padding="0" width="30px" src="images/iconCible.png" alt=""/>
           <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-style="normal" line-height="22px" font-weight="400" letter-spacing="0.5px" color="#f9f8f8">Devenez un vrai Artisan Glacier.</mj-text>
           <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-style="normal" line-height="22px" font-weight="400" letter-spacing="0.5px" color="#f9f8f8">Et faites la différence.</mj-text>
