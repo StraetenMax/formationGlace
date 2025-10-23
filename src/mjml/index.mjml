@@ -73,18 +73,22 @@
       </mj-column>
     </mj-section>
     <mj-section padding="10px 10px" background-color="#ffffff">
-      <mj-column padding="10px" width="23%">
-        <mj-image padding="0" height="125px" src="images/preparationGlace.png" alt=""/>
-      </mj-column>
-      <mj-column padding="10px" width="23%">
-        <mj-image padding="0" height="125px" src="images/verificationGlace.png" alt=""/>
-      </mj-column>
-      <mj-column padding="10px" width="20%">
-        <mj-image padding="0" height="125px" src="images/machineGlace.png" alt=""/>
-      </mj-column>
-      <mj-column padding="10px" width="34%">
-        <mj-image padding="0" height="125px" src="images/diplomeGlacier.png" alt=""/>
-      </mj-column>
+      <mj-group width="50%">
+        <mj-column padding="10px" width="50%">
+          <mj-image padding="0" width="200px" src="images/Glacier1.png" alt=""/>
+        </mj-column>
+        <mj-column padding="10px" width="50%">
+          <mj-image padding="0" width="200px" src="images/Glacier2.png" alt=""/>
+        </mj-column>
+      </mj-group>
+      <mj-group width="50%">
+        <mj-column padding="10px" width="50%">
+          <mj-image padding="0" width="200px" src="images/Glacier3.png" alt=""/>
+        </mj-column>
+        <mj-column padding="10px" width="50%">
+          <mj-image padding="0" width="200px" src="images/Glacier4.png" alt=""/>
+        </mj-column>
+      </mj-group>
     </mj-section>
     <mj-section padding="10px 30px" background-color="#ffffff">
       <mj-column width="90%">
