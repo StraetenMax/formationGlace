@@ -41,18 +41,18 @@
     <mj-section padding="10px 10px" background-color="#ffffff">
       <mj-group width="50%">
         <mj-column padding="10px" width="50%">
-          <mj-image padding="0" width="200px" src="images/Glacier1.png" alt=""/>
+          <mj-image padding="0" width="200px" fluid-on-mobile="true" src="images/Glacier1.png" alt=""/>
         </mj-column>
         <mj-column padding="10px" width="50%">
-          <mj-image padding="0" width="200px" src="images/Glacier2.png" alt=""/>
+          <mj-image padding="0" width="200px" fluid-on-mobile="true" src="images/Glacier2.png" alt=""/>
         </mj-column>
       </mj-group>
       <mj-group width="50%">
         <mj-column padding="10px" width="50%">
-          <mj-image padding="0" width="200px" src="images/Glacier3.png" alt=""/>
+          <mj-image padding="0" width="200px" fluid-on-mobile="true" src="images/Glacier3.png" alt=""/>
         </mj-column>
         <mj-column padding="10px" width="50%">
-          <mj-image padding="0" width="200px" src="images/Glacier4.png" alt=""/>
+          <mj-image padding="0" width="200px" fluid-on-mobile="true" src="images/Glacier4.png" alt=""/>
         </mj-column>
       </mj-group>
     </mj-section>
@@ -75,18 +75,18 @@
     <mj-section padding="10px 10px" background-color="#ffffff">
       <mj-group width="50%">
         <mj-column padding="10px" width="50%">
-          <mj-image padding="0" width="200px" src="images/Glacier1.png" alt=""/>
+          <mj-image padding="0" width="200px" fluid-on-mobile="true" src="images/Glacier1.png" alt=""/>
         </mj-column>
         <mj-column padding="10px" width="50%">
-          <mj-image padding="0" width="200px" src="images/Glacier2.png" alt=""/>
+          <mj-image padding="0" width="200px" fluid-on-mobile="true" src="images/Glacier2.png" alt=""/>
         </mj-column>
       </mj-group>
       <mj-group width="50%">
         <mj-column padding="10px" width="50%">
-          <mj-image padding="0" width="200px" src="images/Glacier3.png" alt=""/>
+          <mj-image padding="0" width="200px" fluid-on-mobile="true" src="images/Glacier3.png" alt=""/>
         </mj-column>
         <mj-column padding="10px" width="50%">
-          <mj-image padding="0" width="200px" src="images/Glacier4.png" alt=""/>
+          <mj-image padding="0" width="200px" fluid-on-mobile="true" src="images/Glacier4.png" alt=""/>
         </mj-column>
       </mj-group>
     </mj-section>
