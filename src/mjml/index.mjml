@@ -2,6 +2,7 @@
 <mjml>
   <mj-head>
     <mj-title>Formation de Glaces </mj-title>
+    <mj-font name="Lobster" href="https://fonts.googleapis.com/css2?family=Lobster"></mj-font>
     <mj-raw>
       <meta charset="UTF-8">
       <meta name='color-scheme' content='light'/>
@@ -22,7 +23,7 @@
     </mj-section>
     <mj-section padding="20px" background-color="#ffffff">
       <mj-column width="90%">
-        <mj-text padding="0" align="center" font-size="24px" font-style="normal" line-height="30px" font-weight="400">Vous êtes restaurateur, traiteur, pizzaiolo, boulanger, chocolatier ou artisan ?</mj-text>
+        <mj-text padding="0" align="center" font-family="Lobster, sans-serif" font-size="30px" font-style="normal" line-height="36px" font-weight="400">Vous êtes restaurateur, traiteur, pizzaiolo, boulanger, chocolatier ou artisan ?</mj-text>
         <mj-spacer height="15px"></mj-spacer>
         <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="18px" font-style="normal" line-height="22px" font-weight="700" letter-spacing="1px" color="#260801">Et si vos clients revenaient pour vos propres glaces artisanales maison ?</mj-text>
         <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-style="normal" line-height="20px" font-weight="400" letter-spacing="0.5px" color="#260801"><img padding="0" width="30px" src="images/iconIndex.png" alt=""/><span style="vertical-align:top">&nbsp;&nbsp;On vous forme. Vous créez. Ils reviennent.</span></mj-text>
@@ -95,7 +96,7 @@
     </mj-section>
     <mj-section padding="10px 30px" background-color="#ffffff">
       <mj-column width="90%">
-        <mj-text padding="0" align="center" font-size="24px" font-style="normal" line-height="30px" font-weight="400">Vous n'y connaissez rien&nbsp;? Aucun&nbsp;problème.</mj-text>
+        <mj-text padding="0" align="center" font-family="Lobster, sans-serif" font-size="28px" font-style="normal" line-height="34px" font-weight="400">Vous n'y connaissez rien&nbsp;? Aucun&nbsp;problème.</mj-text>
         <mj-spacer height="15px"></mj-spacer>
         <mj-text padding="0" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-style="normal" line-height="22px" font-weight="400" letter-spacing="0.5px" color="#260801">Notre formation est faite pour les débutants comme pour les professionnels, et elle vous apprend à&nbsp;:</mj-text>
         <mj-text padding="0" font-family="Arial, Helvetica, sans-serif" font-size="16px" line-height="22px" font-weight="400" letter-spacing="0.5px" color="#260801">&#9679;&nbsp;<span style="font-weight:700">Fabriquer des glaces, crèmes glacées et sorbets</span> 100% maison,</mj-text>
@@ -106,7 +107,7 @@
     </mj-section>
     <mj-section padding="10px 30px" background-color="#ffffff">
       <mj-column width="90%">
-        <mj-text padding="0" align="center" font-size="24px" font-style="normal" line-height="30px" font-weight="400">Et le meilleur dans tout ça ?</mj-text>
+        <mj-text padding="0" align="center" font-family="Lobster, sans-serif" font-size="28px" font-style="normal" line-height="34px" font-weight="400">Et le meilleur dans tout ça ?</mj-text>
         <mj-spacer height="15px"></mj-spacer>
         <mj-text padding="0" padding-bottom="8px" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-style="normal" line-height="22px" font-weight="400" letter-spacing="0.5px" color="#260801">Si vous êtes travailleur indépendant, artisan inscrit à la Chambre des Métiers ou Chef d'entreprise ou son conjoint&nbsp;?</mj-text>
         <mj-text padding="8px 0" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-style="normal" line-height="22px" font-weight="400" letter-spacing="0.5px" color="#260801"><span style="font-weight:700">Bonne nouvelle&nbsp;:</span> le coût de votre formation peut-être pris en charge, en totalité ou en partie, par l'organisme de financement dont vous dépendez.</mj-text>
