@@ -40,31 +40,32 @@
         <mj-button padding="20px 0" font-family="Arial, Helvetica, sans-serif" font-size="16px" line-height="20px" font-weight="700" letter-spacing="1px" text-transform="uppercase" background-color="#260801" color="#ffffff" href="#">Je m'inscris</mj-button>
       </mj-column>
     </mj-section>
-    <mj-section padding="10px 10px" background-color="#ffffff">
+    <mj-section padding="10px 10px" background-color="#d0c8c8">
       <mj-group width="50%">
         <mj-column padding="10px" width="50%">
-          <mj-image padding="0" width="200px" fluid-on-mobile="true" src="images/Glacier1.png" alt=""/>
+          <mj-image padding="0" width="200px" fluid-on-mobile="true" src="images/Glacier1.png" alt="" border="1px solid #260801"/>
         </mj-column>
         <mj-column padding="10px" width="50%">
-          <mj-image padding="0" width="200px" fluid-on-mobile="true" src="images/Glacier2.png" alt=""/>
+          <mj-image padding="0" width="200px" fluid-on-mobile="true" src="images/Glacier2.png" alt="" border="1px solid #260801"/>
         </mj-column>
       </mj-group>
       <mj-group width="50%">
         <mj-column padding="10px" width="50%">
-          <mj-image padding="0" width="200px" fluid-on-mobile="true" src="images/Glacier3.png" alt=""/>
+          <mj-image padding="0" width="200px" fluid-on-mobile="true" src="images/Glacier3.png" alt="" border="1px solid #260801"/>
         </mj-column>
         <mj-column padding="10px" width="50%">
-          <mj-image padding="0" width="200px" fluid-on-mobile="true" src="images/Glacier4.png" alt=""/>
+          <mj-image padding="0" width="200px" fluid-on-mobile="true" src="images/Glacier4.png" alt="" border="1px solid #260801"/>
         </mj-column>
       </mj-group>
     </mj-section>
-    <mj-section padding="20px" background-color="#ffffff">
+    <mj-section padding-top="20px" background-color="#d0c8c8">
       <mj-column width="90%">
         <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-style="normal" line-height="22px" font-weight="400" letter-spacing="0.5px" color="#260801">Vous êtes guidé étape par étape pour apprendre à fabriquer des glaces, des crèmes glacées et sorbets plein fruit, 100&nbsp;% naturels, sans colorants, sans arômes artificiels, sans poudre industrielle.</mj-text>
         <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-style="normal" line-height="22px" font-weight="700" letter-spacing="0.5px" color="#260801">Juste du vrai, du bon, du fait maison.</mj-text>
         <mj-button padding="20px 0" font-family="Arial, Helvetica, sans-serif" font-size="16px" line-height="20px" font-weight="700" letter-spacing="1px" text-transform="uppercase" background-color="#260801" color="#ffffff" href="#">Je m'inscris</mj-button>
-        <mj-spacer height="40px"></mj-spacer>
       </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="20px" background-color="#ffffff">
       <mj-column width="100%">
         <mj-image padding="0" width="600px" src="images/glaces.png" alt=""/>
       </mj-column>
