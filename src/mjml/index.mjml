@@ -23,7 +23,7 @@
     </mj-section>
     <mj-section padding="20px" background-color="#ffffff">
       <mj-column width="90%">
-        <mj-text padding="0" align="center" font-family="Lobster, sans-serif" font-size="30px" font-style="normal" line-height="36px" font-weight="400">Vous êtes restaurateur, traiteur, pizzaiolo, boulanger, chocolatier ou artisan ?</mj-text>
+        <mj-text padding="0" align="center" font-family="Lobster, sans-serif" font-size="34px" font-style="normal" line-height="40px" font-weight="400">Vous êtes restaurateur, traiteur, pizzaiolo, boulanger, chocolatier ou artisan ?</mj-text>
         <mj-spacer height="15px"></mj-spacer>
         <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="18px" font-style="normal" line-height="22px" font-weight="700" letter-spacing="1px" color="#260801">Et si vos clients revenaient pour vos propres glaces artisanales maison ?</mj-text>
         <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-style="normal" line-height="20px" font-weight="400" letter-spacing="0.5px" color="#260801"><img padding="0" width="30px" src="images/iconIndex.png" alt=""/><span style="vertical-align:top">&nbsp;&nbsp;On vous forme. Vous créez. Ils reviennent.</span></mj-text>
@@ -117,6 +117,17 @@
         <mj-image padding="20px 0" width="600px" src="images/bandeauOpco.png" alt=""/>
         <mj-text padding="0" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-style="normal" line-height="22px" font-weight="400" letter-spacing="0.5px" color="#260801">Notre organisme de formation <a style="color:#260801;" href="#">www.formationglacier.com</a> est certifié <span style="font-weight:700">QUALIOPI</span> à ce titre, nous vous accompagnons dans toutes vos démarches administratives, et nous vous aidons à constituer votre dossier de prise en charge pour que votre projet de formation se réalise dans les meilleures conditions.</mj-text>
         <mj-image padding="20px 0" width="600px" src="images/bandeauQualiopi.png" alt=""/>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="images/qualiopi.png" alt=""/>
+      </mj-column>
+      <mj-column>
+        <mj-image src="images/certificationCnefop.png" alt=""/>
+      </mj-column>
+      <mj-column>
+        <mj-image src="images/franceTravail.png" alt=""/>
       </mj-column>
     </mj-section>
     <mj-section background-color="#d0c8c8" padding="30px 30px">
