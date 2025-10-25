@@ -66,36 +66,36 @@
         <mj-button padding="20px 0" font-family="Arial, Helvetica, sans-serif" font-size="16px" line-height="20px" font-weight="700" letter-spacing="1px" text-transform="uppercase" background-color="#260801" color="#ffffff" href="#">Je m'inscris</mj-button>
       </mj-column>
     </mj-section>
-    <mj-section padding="0" background-color="#260801">
+    <mj-section padding="0" background-color="#000000">
       <mj-column width="100%">
         <mj-image padding="0" width="600px" src="images/glaces.png" alt=""/>
       </mj-column>
     </mj-section>
-    <mj-section padding="20px" background-color="#260801">
+    <mj-section padding="20px" background-color="#000000">
       <mj-column width="90%">
         <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-style="normal" line-height="22px" font-weight="400" letter-spacing="0.5px" color="#ffffff">Une formation 100&nbsp;% artisanale, accessible à tous, animée par un professionnel passionné. </mj-text>
         <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-style="normal" line-height="22px" font-weight="400" letter-spacing="0.5px" color="#ffffff">Pourquoi laisser passer cette source de revenus évidente, alors que vous pouvez créer vos propres glaces artisanales, naturelles, sans colorants ni arômes artificiels&nbsp;?</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="10px 20px" background-color="#ffffff">
+    <mj-section padding="10px 20px" background-color="#e8e3e3">
       <mj-group width="50%">
         <mj-column padding="10px" width="50%">
-          <mj-image padding="0" width="200px" fluid-on-mobile="true" src="images/Glacier1.png" alt=""/>
+          <mj-image padding="0" width="200px" fluid-on-mobile="true" src="images/Glacier1.png" border="1px solid #260801" alt=""/>
         </mj-column>
         <mj-column padding="10px" width="50%">
-          <mj-image padding="0" width="200px" fluid-on-mobile="true" src="images/Glacier2.png" alt=""/>
+          <mj-image padding="0" width="200px" fluid-on-mobile="true" src="images/Glacier2.png" border="1px solid #260801" alt=""/>
         </mj-column>
       </mj-group>
       <mj-group width="50%">
         <mj-column padding="10px" width="50%">
-          <mj-image padding="0" width="200px" fluid-on-mobile="true" src="images/Glacier3.png" alt=""/>
+          <mj-image padding="0" width="200px" fluid-on-mobile="true" src="images/Glacier3.png" border="1px solid #260801" alt=""/>
         </mj-column>
         <mj-column padding="10px" width="50%">
-          <mj-image padding="0" width="200px" fluid-on-mobile="true" src="images/Glacier4.png" alt=""/>
+          <mj-image padding="0" width="200px" fluid-on-mobile="true" src="images/Glacier4.png" border="1px solid #260401" alt=""/>
         </mj-column>
       </mj-group>
     </mj-section>
-    <mj-section padding="10px 30px" background-color="#ffffff">
+    <mj-section padding="10px 30px" background-color="#e8e3e3">
       <mj-column width="90%">
         <mj-text padding="0" align="center" font-family="Lobster, sans-serif" font-size="28px" font-style="normal" line-height="34px" font-weight="400">Vous n'y connaissez rien&nbsp;? Aucun&nbsp;problème.</mj-text>
         <mj-spacer height="15px"></mj-spacer>
